@@ -1,0 +1,44 @@
+.blockElements {
+  position: relative;
+  width: 100%;
+  background: #f4f5f9;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 1px solid #efefef;
+  padding: 30px 40px;
+  border-radius: 1rem;
+}
+
+.blockCompleted {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.2);
+  margin-bottom: 20px;
+  box-sizing: border-box;
+  border: 1px solid #efefef;
+  padding: 30px 40px;
+  border-radius: 1rem;
+}
+
+.title {
+  font-size: 16px;
+  margin-bottom: 4px;
+}
+
+.p {
+  margin-bottom: 4px;
+}
+
+.text {
+  line-height: 1.2em;
+}
+
+.button {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  cursor: pointer;
+}
+
+.span {
+  margin-right: 15px;
+}
